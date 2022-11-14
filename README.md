@@ -1,0 +1,2 @@
+# gptcse
+regarding the commands
